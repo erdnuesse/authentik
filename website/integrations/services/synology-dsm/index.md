@@ -14,7 +14,7 @@ sidebar_label: Synology DSM (DiskStation Manager)
 > -- https://www.synology.com/en-global/dsm
 
 :::caution
-This is tested with DSM 7.1 or newer.
+This is tested with DSM 7.2 or newer.
 :::
 
 ## Preparation
@@ -62,3 +62,5 @@ To configure Synology DSM to utilize authentik as an OpenID Connect 1.0 Provider
 ## See also:
 
 [Synology DSM SSO Client Documentation](https://kb.synology.com/en-af/DSM/help/DSM/AdminCenter/file_directory_service_sso?version=7)
+[Synology DSM 7.1 SSO Server (needed for SAML/OIDC) Specs & Limitations](https://www.synology.com/en-global/dsm/7.1/software_spec/sso_server)
+
